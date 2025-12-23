@@ -74,7 +74,7 @@ The histogram below confirms that for the specific case of sending "11", Bob mea
 **Setup**
 ```bash
 # Clone the repository
-git clone https://github.com/Hyma3/superdense-coding.git
+git clone https://github.com/numaguiot/superdense-coding.git
 cd superdense-coding
 
 # Create virtual env
